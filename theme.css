@@ -1279,8 +1279,8 @@ h3.tagline {
 /* == Description Box Positioning (Desktop) == */
 /* Moves the primary content (description, etc.) to align with the repositioned title. */
 .layout-desktop .detailPagePrimaryContent {
-    padding-left: 21.4vw !important; /* Offset from left */
-	padding-bottom: 2em;
+    padding-left: 22.4vw !important; /* Offset from left */
+	padding-bottom: 1em;
 }
 
 /* == Minimum Height for Primary Content Based on Poster Aspect Ratio (Desktop) == */
